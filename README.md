@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ghada</h1>
 <h3 align="center">A passionate Data scientist from Tunisia</h3>
-
-- 🔭 I’m currently working on **Skin Cancer**
+- 🔭 I’m currently working on **Skin Cancer detection**
 
 - 🌱 I’m currently learning **Data scientist student**
 
