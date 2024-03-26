@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ghada</h1>
 <h3 align="center">A passionate Data scientist from Tunisia</h3>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
+<img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/D4E12AQHWdh7-EetAtA/article-cover_image-shrink_720_1280/0/1678037836751?e=2147483647&v=beta&t=fXSBJx7DzdBAp3a4L3v-Klk-VRvQyuBRvPHXN3EiYeo">
 - 🔭 I’m currently working on **Skin Cancer detection**
 
 - 🌱 I’m currently learning **Data scientist student**
