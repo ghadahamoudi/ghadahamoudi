@@ -12,11 +12,9 @@
  
  🔭 I’m currently working on **100Days-DataScience-Challenge**
  
- 🌱 I’m currently learning **Deep Learning, Power bI, AWS**
+ 🌱 I’m currently learning **Deep Learning, Power bI**
 
 💬 Ask me about **django, python ... or anything **
-
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
  </div>
  
