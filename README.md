@@ -14,21 +14,18 @@
  
  🌱 I’m currently learning **Deep Learning, Power bI, AWS**
 
-💬 Ask me about **django, python ... or anything [here](https://github.com/salesp07/salesp07/issues)**
+💬 Ask me about **django, python ... or anything **
 
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
  </div>
  
 <div align="center"> 
-  <a href="mailto:pedro.sales.muniz@gmail.com">
+  <a href="mailto:contact.ghadahamoudi@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
+  <a href="https://www.linkedin.com/in/ghada-hamoudi/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://salesp07.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
 
@@ -37,8 +34,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,git,r" />
-    <img src="https://skillicons.dev/icons?i=angular,django,python,node,mongodb,c,java,mysql,pandas,seaborn" /><br>
+    <img src="https://skillicons.dev/icons?i=angular,bootstrap,mui,html,css,vscode,github,figma,git,r" />
+    <img src="https://skillicons.dev/icons?i=django,python,node,mongodb,c,java,mysql,pandas,seaborn" /><br>
 </div>
 
 <br/>
