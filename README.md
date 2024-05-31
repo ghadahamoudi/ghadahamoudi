@@ -33,7 +33,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=angular,bootstrap,mui,html,css,vscode,github,figma,git,r" />
-    <img src="https://skillicons.dev/icons?i=django,python,node,mongodb,c,java,mysql,pandas,seaborn" /><br>
+    <img src="https://skillicons.dev/icons?i=django,python,mongodb,c,java,mysql,pandas,seaborn,matplotlib,scikit-learn" /><br>
 </div>
 
 <br/>
@@ -47,7 +47,6 @@
   <br/><br/><br/>
 </div>
 
-<hr/>
 
 
 
