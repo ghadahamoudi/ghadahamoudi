@@ -10,10 +10,6 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **100Days-DataScience-Challenge**
- 
- 🌱 I’m currently learning **Deep Learning, Power bI**
-
 💬 Ask me about **django, python ... or anything **
 
  </div>
